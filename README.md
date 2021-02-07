@@ -1,6 +1,6 @@
 # Hello
-## This is the project "Code Rain" readme
-You can use it to learn the *HTML language*  
+## This is the project "Code Rain" readme.
+You can use it to learn the *HTML language.*  
 ***
 This project is based on the *code rain* in the *matrix*.
 ***
